@@ -1,0 +1,99 @@
+
+@font-face {
+    font-family: "bio" ;
+    src: url(BioRhyme_Expanded/BioRhymeExpanded-Bold.ttf);
+}
+
+@font-face {
+    font-family: "bruno" ;
+    src: url(Bruno_Ace/BrunoAce-Regular.ttf);
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+table{
+
+    border: 1px solid black;
+    height: 100vb;
+    width: 100%;
+    margin: 0px;
+}
+
+body{
+    margin: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+td{
+   
+   padding: 0%;
+   margin: 0%;
+   border-collapse: collapse;
+   height: 10vb;
+   width: 10%;
+   margin: 0%;
+}
+
+h1{
+    margin: 10px;
+    margin-top: 0%;
+    padding-top: 10px;
+    font-family: "bio";
+    font-size: 3em;
+    color: white;
+    padding-left: 10px;
+    text-shadow: 0px 2px 2px black;
+    background-image: linear-gradient(to right , #FFD700 ,  transparent);
+}
+
+#img2{
+    border-radius: 10px;
+    width: 200px;
+    height: 200px;
+    padding: 15px;
+    margin-bottom: 0%;
+    display: block;
+    margin: auto;
+}
+
+.fundoquad{
+    background-color: #CEBB3D;
+    border-radius: 10px;
+    box-shadow: 3px 2px 3px rgba(0, 0, 0, 0.329);
+}
+
+.fundotext{
+    background-color: #FFD700;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    box-shadow: 3px 2px 3px rgba(0, 0, 0, 0.267);
+}
+
+p{
+    font-size: 1.4em;
+    margin: 0%;
+    padding: 10px;
+    text-align: justify;
+    text-indent: 10px;
+}
+
+#img1{
+    width: 300px;
+    height: 200px;
+    border-radius: 10px;
+    display: block;
+    margin: auto;
+    padding: 15px;
+}
+
+
+.branco{
+    background-color: white;
+}
+
+.marrom{
+    background-color: #E5D579;
+}
